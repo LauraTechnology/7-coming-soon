@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/LauraTechnology/7-coming-soon/issues"
   },
-  "homepage": "https://github.com/LauraTechnology/7-coming-soon#readme"
+  "homepage": "https://github.com/LauraTechnology/7-coming-soon#readme",
+  "dependencies": { 
+    "live-server": "^1.2.1"
+  }
 }
