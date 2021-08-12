@@ -1,1 +1,20 @@
-npm init -y
+{
+  "name": "7-coming-soon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraTechnology/7-coming-soon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauraTechnology/7-coming-soon/issues"
+  },
+  "homepage": "https://github.com/LauraTechnology/7-coming-soon#readme"
+}
