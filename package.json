@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/LauraTechnology/7-coming-soon.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "coming",
+    "soon"
+  ],
+  "author": "Laura Zukaite",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LauraTechnology/7-coming-soon/issues"
