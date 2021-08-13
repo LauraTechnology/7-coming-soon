@@ -10,8 +10,6 @@
 @import './components/progress-bar.css';
 
 
-
-
-body {
-    background-color: yellow;
+.bg-primary {
+    background-color: var(--primary-color) ;
 }
