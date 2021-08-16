@@ -18,3 +18,11 @@
     margin: 0 calc(50% - 300px);
     background-color: pink;
 }
+
+@media (width: 1000px) {
+    .container > .row {
+        width: 800px;
+        margin: 0 calc(50% - 400px);
+        background-color: orange;
+    }
+}
